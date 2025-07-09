@@ -1,0 +1,48 @@
+name: optikick
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.5.0 <4.0.0"
+
+dependencies:
+  awesome_dialog: ^3.2.1
+  bloc: ^9.0.0
+  cupertino_icons: ^1.0.8
+  dio: ^5.8.0+1
+  fl_chart: ^0.68.0
+  flutter:
+    sdk: flutter
+  flutter_bloc: ^9.1.0
+  flutter_chat_bubble: ^2.0.2
+  flutter_screenutil: ^5.9.3
+  flutter_svg: ^2.1.0
+  intl: ^0.20.2
+  jwt_decoder: ^2.0.1
+  material_symbols_icons: ^4.2815.0
+  pin_code_fields: ^8.0.1
+  shared_preferences: ^2.5.3
+
+dev_dependencies:
+  flutter_lints: ^5.0.0
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
+  uses-material-design: true
+  assets:
+    - assets/images/
+
+  fonts:
+    - family: Poppins
+      fonts:
+        - asset: assets/fonts/Poppins-Regular.ttf
+
+flutter_assets:
+  assets_path: assets/images
+  output_path: lib/constants/
+  filename: assets.dart
+  field_prefix: null
