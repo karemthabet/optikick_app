@@ -54,7 +54,9 @@ Coaches, doctors, and athletes get a unified dashboard with real-time insights t
   <img src="assets/screenshots/stats_player.PNG" width="18%" />
   <img src="assets/screenshots/training_program_player.PNG" width="18%" />
 </p>
+
 ---
+
 ### 🩺 Doctor Interface
 
 <p float="left">
@@ -68,7 +70,9 @@ Coaches, doctors, and athletes get a unified dashboard with real-time insights t
   <img src="assets/screenshots/stats_doctor.PNG" width="18%" />
   <img src="assets/screenshots/training_program_doctor.PNG" width="18%" />
 </p>
+
 ---
+
 ### 🧑‍🏫 Coach Interface
 
 <p float="left">
@@ -81,7 +85,6 @@ Coaches, doctors, and athletes get a unified dashboard with real-time insights t
 <p align="center">
   <img src="assets/screenshots/training_program_coach.PNG" width="18%" />
 </p>
----
 
 
 ---
