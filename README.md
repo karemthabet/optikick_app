@@ -49,11 +49,45 @@ Coaches, doctors, and athletes get a unified dashboard with real-time insights t
   <img src="assets/screenshots/drawer.PNG" width="18%" />
   <img src="assets/screenshots/profile_player.PNG" width="18%" />
 </p>
-<p float="left">
+<p align="center">
   <img src="assets/screenshots/requst_player.PNG" width="18%" />
   <img src="assets/screenshots/stats_player.PNG" width="18%" />
   <img src="assets/screenshots/training_program_player.PNG" width="18%" />
-  <img src="assets/screenshots/drawer.PNG" width="18%" />
-  <img src="assets/screenshots/profile_player.PNG" width="18%" />
 </p>
 ---
+### 🩺 Doctor Interface
+
+<p float="left">
+  <img src="assets/screenshots/home_doctor.PNG" width="18%" />
+  <img src="assets/screenshots/messages_doctor.PNG" width="18%" />
+  <img src="assets/screenshots/notification_doctor.PNG" width="18%" />
+  <img src="assets/screenshots/chat_doctor.PNG" width="18%" />
+  <img src="assets/screenshots/profile_doctor.PNG" width="18%" />
+</p>
+<p align="center">
+  <img src="assets/screenshots/stats_doctor.PNG" width="18%" />
+  <img src="assets/screenshots/training_program_doctor.PNG" width="18%" />
+</p>
+---
+### 🧑‍🏫 Coach Interface
+
+<p float="left">
+  <img src="assets/screenshots/home_coach.PNG" width="18%" />
+  <img src="assets/screenshots/notifictions_coach.PNG" width="18%" />
+  <img src="assets/screenshots/chat_coach.PNG" width="18%" />
+  <img src="assets/screenshots/profil_coach.PNG" width="18%" />
+  <img src="assets/screenshots/stats_coach.PNG" width="18%" />
+</p>
+<p align="center">
+  <img src="assets/screenshots/training_program_coach.PNG" width="18%" />
+</p>
+---
+
+
+---
+
+## 🚀 Getting Started
+
+1. **Clone the repository**
+```bash
+git clone https://github.com/karemthabet/optikick_app_clean_arch.git
