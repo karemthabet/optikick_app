@@ -1,16 +1,59 @@
-# optikick_app
+# ⚽ OptiKick – Smart Athlete Monitoring App
 
-A new Flutter project.
+OptiKick is an intelligent training optimization system designed to improve **athlete performance** and **prevent injuries** in professional football, using real-time biometric data and AI-powered analysis.
+Built with **Flutter** for a smooth cross-platform experience and integrated with powerful backend technologies.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+**OptiKick** focuses on **proactive injury prevention** and **performance optimization** by monitoring athletes’ biometric data — including heart rate, HRV, and VO2 Max — and analyzing it using machine learning.
 
-A few resources to get you started if this is your first Flutter project:
+The app automatically classifies players into categories:
+- ✅ Optimal  
+- 🔄 Recovering  
+- ⚠️ At Risk  
+- ⛔ Underperforming  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Coaches, doctors, and athletes get a unified dashboard with real-time insights to make faster, safer decisions.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🎯 Objectives
+
+- Track players’ biometric signals in real-time.
+- Use AI to classify players' performance status.
+- Predict injuries early using smart pattern detection.
+- Provide personalized training and rest plans.
+- Empower medical staff with a centralized monitoring system.
+
+---
+## 🖼️ Screenshots
+
+### 🔹 Splash, Onboarding & Login
+
+<p float="left">
+  <img src="assets/screenshots/splash.PNG" width="18%" />
+  <img src="assets/screenshots/onboard1.PNG" width="18%" />
+  <img src="assets/screenshots/onboard2.PNG" width="18%" />
+  <img src="assets/screenshots/onboard3.PNG" width="18%" />
+   <img src="assets/screenshots/login.PNG" width="18%" />
+</p>
+
+---
+
+### 🧍‍♂️ Player Interface
+
+<p float="left">
+  <img src="assets/screenshots/home_player.PNG" width="18%" />
+  <img src="assets/screenshots/notefication_player.PNG" width="18%" />
+  <img src="assets/screenshots/masseges_player.PNG" width="18%" />
+  <img src="assets/screenshots/drawer.PNG" width="18%" />
+  <img src="assets/screenshots/profile_player.PNG" width="18%" />
+</p>
+<p float="left">
+  <img src="assets/screenshots/requst_player.PNG" width="18%" />
+  <img src="assets/screenshots/stats_player.PNG" width="18%" />
+  <img src="assets/screenshots/training_program_player.PNG" width="18%" />
+  <img src="assets/screenshots/drawer.PNG" width="18%" />
+  <img src="assets/screenshots/profile_player.PNG" width="18%" />
+</p>
+---
