@@ -8,24 +8,46 @@ Built with **Flutter** for a smooth cross-platform experience and integrated wit
 **OptiKick** focuses on **proactive injury prevention** and **performance optimization** by monitoring athletes’ biometric data — including heart rate, HRV, and VO2 Max — and analyzing it using machine learning.
 
 The app automatically classifies players into categories:
-- ✅ Optimal  
-- 🔄 Recovering  
-- ⚠️ At Risk  
-- ⛔ Underperforming  
+
+* ✅ Optimal
+* ↺ Recovering
+* ⚠️ At Risk
+* ⛔ Underperforming
 
 Coaches, doctors, and athletes get a unified dashboard with real-time insights to make faster, safer decisions.
 
 ---
 
-## 🎯 Objectives
+## 🌟 Login Credentials
 
-- Track players’ biometric signals in real-time.
-- Use AI to classify players' performance status.
-- Predict injuries early using smart pattern detection.
-- Provide personalized training and rest plans.
-- Empower medical staff with a centralized monitoring system.
+You can test the app using the following accounts:
+
+```txt
+// Player:
+luisdiaz@gmail.com
+luis6640
+
+// Doctor:
+jonathan@gmail.com
+jonathan6640
+
+// Coach:
+arneslot@gmail.com
+arne6640
+```
 
 ---
+
+## 🎯 Objectives
+
+* Track players’ biometric signals in real-time.
+* Use AI to classify players' performance status.
+* Predict injuries early using smart pattern detection.
+* Provide personalized training and rest plans.
+* Empower medical staff with a centralized monitoring system.
+
+---
+
 ## 🖼️ Screenshots
 
 ### 🔹 Splash, Onboarding & Login
@@ -40,7 +62,7 @@ Coaches, doctors, and athletes get a unified dashboard with real-time insights t
 
 ---
 
-### 🧍‍♂️ Player Interface
+### 🧐‍♂️ Player Interface
 
 <p float="left">
   <img src="assets/screenshots/home_player.PNG" width="18%" />
@@ -57,7 +79,7 @@ Coaches, doctors, and athletes get a unified dashboard with real-time insights t
 
 ---
 
-### 🩺 Doctor Interface
+### 🦥 Doctor Interface
 
 <p float="left">
   <img src="assets/screenshots/home_doctor.PNG" width="18%" />
@@ -86,11 +108,12 @@ Coaches, doctors, and athletes get a unified dashboard with real-time insights t
   <img src="assets/screenshots/training_program_coach.PNG" width="18%" />
 </p>
 
-
 ---
 
 ## 🚀 Getting Started
 
 1. **Clone the repository**
+
 ```bash
 git clone https://github.com/karemthabet/optikick_app_clean_arch.git
+```
